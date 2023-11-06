@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  border: 0;
+  font-family: Raleway, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+/* Estilos del Header */
+
+.header {
+  font-size: 50px;
+  font-weight: 500;
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.bg-header img {
+  width: 100%;
+}
+
+/* Estilos de la Descripción */
+
+.seccion-descripcion {
+  background-color: #000000;
+  margin: 0;
+  padding: 45px 0;
+}
+
+.contenedor {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.texto-descripcion {
+  width: 65%;
+  display: inline-block;
+  padding-right: 30px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.imagen-descripcion {
+  display: inline-block;
+  width: 25%;
+  vertical-align: middle;
+  border: solid 1px #ddd;
+}
+
+.imagen-descripcion img {
+  width: 100%;
+}
+
+/* Estilos de Iconos */
+
+.seccion-de-iconos {
+  background-color: #1e1a13;
+  text-align: center;
+  padding: 50px;
+}
+
+.seccion-de-iconos h2 {
+  font-weight: 500;
+  font-size: 40px;
+  margin-bottom: 1em;
+}
+
+.iconos {
+  display: inline-block;
+  width: 30%;
+}
+
+.iconos p {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+/* Estilos de Imagenes */
+
+.galeria {
+  text-align: center;
+  padding: 75px 0;
+}
+
+.imagen {
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+
+.imagen img {
+  width: 250px;
+  height: 200px;
+  border: solid 1px #ddd;
+}
+
+/* Estilos del Footer */
+
+footer {
+  background-color: #1e1a13;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+  color: #ffffff;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
